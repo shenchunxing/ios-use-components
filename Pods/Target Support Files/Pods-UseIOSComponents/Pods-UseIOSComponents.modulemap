@@ -1,0 +1,6 @@
+framework module Pods_UseIOSComponents {
+  umbrella header "Pods-UseIOSComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}
